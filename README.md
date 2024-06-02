@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://camo.githubusercontent.com/b80e463c70a87eec6a36cdd0711ffa2be6b4850e58ea0a4205b3c874947256b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DMoonPamanes&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <!--
