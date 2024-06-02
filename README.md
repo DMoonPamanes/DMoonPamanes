@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=c++,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,react,js,html,css,postman)](https://skillicons.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DMoonPamanes&theme=dark&mode=weekly)](https://git.io/streak-stats)
 <!--
